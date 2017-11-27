@@ -2337,6 +2337,7 @@
 
 			.image.left img, .image.right img {
 				width: 100%;
+				height: 330px;
 			}
 
 		.image.left {
